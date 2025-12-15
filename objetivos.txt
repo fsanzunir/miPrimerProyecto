@@ -1,3 +1,6 @@
 Objetivo 1
 Objetivo 2
 Objetivo 3
+Objetivo 1: Consolidar conocimientos de backend.
+Objetivo 2: Ampliar mis capacidades de programación en front.
+Objetivo 3: Descubrir nuevas tecnologías.
